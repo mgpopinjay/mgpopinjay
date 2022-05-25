@@ -7,6 +7,4 @@ I work at the intersection of AI, Human Factors, and Policy.  My mission is to f
 - 💡 I am passionate about creating [unlikely partnership](https://www.media.mit.edu/events/city-robotics-hackathon/) across sectors to help organizations acquire complimentary capabilities for innovation.
 - 🧑🏽‍🔬 I previously worked at the [MIT Media Lab](https://www.media.mit.edu/people/ptinn/projects/) and continue to support various projects there.
 
-If it sounds like we might get along, hit me up.
-
-[Bandit Algorithms (2020)](https://doi.org/10.1017/9781108571401)
+If it sounds like we might get along, [hit me up](mailto:ptinn@mit.edu). 
