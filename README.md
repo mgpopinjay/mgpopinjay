@@ -1,7 +1,7 @@
 ### Hi there, I am Phil 👋
 
 I work at the intersection of AI, Human Factors, and Policy.  
-My mission is to facilitate a human-machine relationship that is sustainable, productive, and fun.
+My mission is to make the co-existence of human and machine sustainable, productive, and fun.
 
 - 🎓  I am a graduate student at UT Austin, currently based at the [Center for Autonomous Marine Operations and Systems](https://www.ntnu.edu/amos) of NTNU in Norway.
 - 🔬  My research explore the application of autonomous systems and ways for them to better interact and support humans across diverse scenarios. 
